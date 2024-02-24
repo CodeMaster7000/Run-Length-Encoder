@@ -1,4 +1,4 @@
-# Run Length Encoding (RLE)
+# Run Length Encoder (RLE)
 
 ## About
 
